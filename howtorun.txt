@@ -1,0 +1,9 @@
+This program uses Python 2.7
+
+1. Open a terminal and type 'python --version' and verify if Python 2.7.x
+2. Verify if an application called pip is installed by typing ' pip --version ', if not following instructions corresponding to your operating system https://www.makeuseof.com/tag/install-pip-for-python/
+3. After pip is install, type ' pip install requests==2.7.0 ', you may need to prepend ' sudo ' if message shows access issue
+4. Download files Page.py and APITest.py into the same directory
+5. Type 'python APITest.py'
+6. Verify test results in console.
+
